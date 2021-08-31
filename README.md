@@ -6,3 +6,4 @@ Olá ! Bem vindo ao meu livro de receitas :wave:
 
 - Pavê de chocolate :chocolate_bar:
 
+- Bolo de cenoura 🥕
